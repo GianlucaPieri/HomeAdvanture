@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/HomeAdvanture/static/css/main.2ab84991.css",
+    "main.js": "/HomeAdvanture/static/js/main.82ad2504.js",
+    "static/js/787.ad37315a.chunk.js": "/HomeAdvanture/static/js/787.ad37315a.chunk.js",
+    "static/media/SfondoDark.png": "/HomeAdvanture/static/media/SfondoDark.6dcec15e3105f6c9fee3.png",
+    "static/media/montagna.jpg": "/HomeAdvanture/static/media/montagna.f21a8ac2e0058cecb4b9.jpg",
+    "static/media/alberelli.png": "/HomeAdvanture/static/media/alberelli.c6762141e65ac1469f48.png",
+    "static/media/alberelliDark.png": "/HomeAdvanture/static/media/alberelliDark.bd33500e4a6cd047d82a.png",
+    "static/media/alberisagome.png": "/HomeAdvanture/static/media/alberisagome.8bebff4b951e6f5e821f.png",
+    "static/media/alberisagomeDark.png": "/HomeAdvanture/static/media/alberisagomeDark.71a9d46636a457b703b0.png",
+    "static/media/trees2.png": "/HomeAdvanture/static/media/trees2.299959ce3dcc447b7628.png",
+    "static/media/trees2Dark.png": "/HomeAdvanture/static/media/trees2Dark.468691c9ba697f40c1ca.png",
+    "index.html": "/HomeAdvanture/index.html",
+    "main.2ab84991.css.map": "/HomeAdvanture/static/css/main.2ab84991.css.map",
+    "main.82ad2504.js.map": "/HomeAdvanture/static/js/main.82ad2504.js.map",
+    "787.ad37315a.chunk.js.map": "/HomeAdvanture/static/js/787.ad37315a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ab84991.css",
+    "static/js/main.82ad2504.js"
+  ]
+}
