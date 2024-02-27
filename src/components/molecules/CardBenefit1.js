@@ -9,9 +9,9 @@ export default function CardBenefit(){
                 our benefit
             </h2>
 
-            <div class="w-full flex  flex-wrap md:flex-nowrap ">
+            <div class="w-full flex-wrap md:flex-nowrap ">
 
-                <div class="ml-20 md:ml-5 w-full text-center md:text-start px-5 py-6  ">
+                <div class="md:ml-5  w-full text-center md:text-start px-5 py-6  ">
 
                     <CardTitle className={"text-primary"}>The Majestic Plant Life in the Mountains</CardTitle>
                     <CardParagraph className={"font-semibold dark:text-white"} >On the impervious peaks and in the silent valleys of the mountains, the    vegetation   expresses its strength and resilience in a harmonious dance with nature. In this alpine kingdom, plant life masterfully     adapts to extreme conditions, creating landscapes where biological diversity is a visual symphony.
